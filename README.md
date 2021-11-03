@@ -27,7 +27,6 @@ Login to VPS (ubuntu)
 ### run
 Login to VPS
 1. Create 24/7 session: ```screen -S scrap```
-2. Go to scrapper folder: ```cd scrapper```
 3. run app: ```node index```
 4. when app is already running, press ```Ctrl+a```, and then press ```d``` in keyboard
 
